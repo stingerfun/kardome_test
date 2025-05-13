@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environments
+venv/
+env/
+.env
+.venv
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Generated MFCC images
+mfcc_*.png
+
+# Large model files (add these if you're not including models in your repo)
+# *.pt
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
