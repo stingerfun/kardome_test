@@ -14,6 +14,8 @@ The model was trained for 10 epochs using the Adam optimizer. The best results w
 
 - **Validation accuracy**: 91.8%
 - **Average F1-score**: 0.86
+![confusion_matrix](https://github.com/user-attachments/assets/597b457f-08a6-45cf-8090-e41492d309ba)
+![training_metrics](https://github.com/user-attachments/assets/98dcf375-d22f-4730-beea-57e4a1a1a708)
 
 Performance metrics by class:
 
